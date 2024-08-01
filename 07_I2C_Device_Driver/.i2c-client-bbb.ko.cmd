@@ -1,1 +1,0 @@
-cmd_/home/kai/workspace/embedded-linux/ldd/i2c/i2c-client-bbb.ko := arm-linux-gnueabihf-ld -r -EL --build-id  -T ./scripts/module-common.lds -T ./arch/arm/kernel/module.lds -o /home/kai/workspace/embedded-linux/ldd/i2c/i2c-client-bbb.ko /home/kai/workspace/embedded-linux/ldd/i2c/i2c-client-bbb.o /home/kai/workspace/embedded-linux/ldd/i2c/i2c-client-bbb.mod.o;  true
